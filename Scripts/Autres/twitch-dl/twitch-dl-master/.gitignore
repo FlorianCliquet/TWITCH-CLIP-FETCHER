@@ -1,0 +1,17 @@
+*.egg-info/
+*.pyc
+.cache/
+build/
+deb_dist/
+dist/
+tmp/
+.pypirc
+/.env
+/.coverage
+/htmlcov
+/twitch-dl-*.tar.gz
+/twitch-dl.1.man
+/bundle
+/*.pyz
+/pyrightconfig.json
+/book
